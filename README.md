@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Izabelawenda
-- 👀 I’m interested in learning new things and gaining knowledge in CS.
 - 🌱 I’m currently learning Java and studying at AGH University of Science and Technology 3rd year.
 - 📫 How to reach me izabelawenda16@gmail.com
 
